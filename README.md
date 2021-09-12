@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 * Stella - A common themes, too smal for my taste, but someone else? likes it!
+* Blushing - A  common theme for femine touch. 
 
 
 

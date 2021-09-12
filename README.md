@@ -22,8 +22,7 @@ Tested with: Genesis Framework: Version: 3.3.5+ Wordpress: 5.8+
 The themes are somewhere in time bought by:)
 
 Other parts:
-
-PART 1: https://github.com/tinaponting/Genesis-child-themes-2
+PART 1: https://github.com/tinaponting/Genesis-child-themes
 
 PART 2: https://github.com/tinaponting/Genesis-child-themes-2
 

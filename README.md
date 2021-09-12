@@ -1,9 +1,11 @@
 # Genesis-child-themes-3
 
 genesis-child-themes
-Genesis child themes who are Abandoned. But still good to use. Works with the Latest wordpress, 5,8. and Latest genesis framework.
+Genesis child themes who are Abandoned. But still good to use. Works with the Latest wordpress and Latest genesis framework.
 
 IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe is one!
+
+Tested with: Genesis Framework: Version: 3.3.5 + Wordpress: 5.8+
 
 ..................................
 

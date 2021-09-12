@@ -1,1 +1,0 @@
-# Genesis-child-themes-3

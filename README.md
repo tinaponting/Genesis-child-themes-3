@@ -5,7 +5,7 @@ Genesis child themes who are Abandoned. But still good to use. Works with the La
 
 IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe is one!
 
-Tested with: Genesis Framework: Version: 3.3.5 + Wordpress: 5.8+
+Tested with: Genesis Framework: Version: 3.3.5 + Wordpress: 5.8.2 +
 
 ..................................
 

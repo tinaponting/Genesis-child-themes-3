@@ -5,13 +5,14 @@ Genesis child themes who are Abandoned. But still good to use. Works with the La
 
 IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe is one!
 
-Tested with: Genesis Framework: Version: 3.3.5 + Wordpress: 5.8.2 +
+Tested with: Genesis Framework: Version: 3.3.5 + Wordpress: 5.9.1 +
 
 ..................................
 
 Themes:
 * Stella - A common themes, too smal for my taste, but someone else? likes it!
-* Blushing - A  common theme for femine touch. 
+* Blushing - A  common theme for femine touch.
+* Lovely - A common woamn theme with blavk meny. 
 
 
 

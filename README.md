@@ -12,7 +12,8 @@ Tested with: Genesis Framework: Version: 3.3.5 + Wordpress: 5.9.1 +
 Themes:
 * Stella - A common themes, too smal for my taste, but someone else? likes it!
 * Blushing - A  common theme for femine touch.
-* Lovely - A common woamn theme with blavk meny. 
+* Lovely - A common woamn theme with blavk meny.
+* Xposure - A photo theme, never used by me.
 
 
 

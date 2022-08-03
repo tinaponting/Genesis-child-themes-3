@@ -20,7 +20,7 @@ Themes:
 
 For icons: For Icons best use: https://www.favicon-generator.org Use: Notepad + for changes!
 
-Tested with: Genesis Framework: Version: 3.3.5+ Wordpress: 5.8+
+Tested with: Genesis Framework: Version: 3.3.5+ Wordpress: 6.01+
 
 The themes are somewhere in time bought by:)
 

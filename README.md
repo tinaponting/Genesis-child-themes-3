@@ -8,6 +8,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 ..................................
 
 Themes:
+* Keeper, works for photo or portffolio blog.
 * Breif, simple theme with woocommerce + Gutnberg /blocks.
 * Ludwig, works for most blogs who wants their thought most important!
 * Pierce, suits a for business.

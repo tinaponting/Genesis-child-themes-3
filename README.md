@@ -8,6 +8,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 ..................................
 
 Themes:
+* Ludwig, works for most blogs who wants their thought most important!
 * Pierce, suits a for business.
 * Loveyourself_v1_3 A common theme, not my cup of tea! Very easy for a blog to use!
 * Stella - A common themes, too smal for my taste, but someone else? likes it!

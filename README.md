@@ -8,6 +8,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 ..................................
 
 Themes:
+* Minimize - simple theme works for many areas of blogging, never used by me!
 * Chef pro - food recipie or somthing like that.
 * Constance - simple theme for bloggers or maybe a landing site? 
 * Keeper, - works for photo or portffolio blog.

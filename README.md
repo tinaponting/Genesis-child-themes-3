@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
+* Confetti - Jet another common woamn theme.
 * Creative dazzle  - Another comman woman theme.
 * Chloe emerson  - Common woman theme.
 * Minimize - simple theme works for many areas of blogging, never used by me!

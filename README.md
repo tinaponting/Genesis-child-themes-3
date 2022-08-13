@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
+* Glamour - A theme for style or?
 * Confetti - Jet another common woamn theme.
 * Creative dazzle  - Another comman woman theme.
 * Chloe emerson  - Common woman theme.

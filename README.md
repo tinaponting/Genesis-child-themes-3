@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
+* Emmy Blake - Another female theme for personal blogging.
 * Glamour - A theme for style or?
 * Confetti - Jet another common woamn theme.
 * Creative dazzle  - Another comman woman theme.

@@ -9,7 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
-* Jennifer, asimpel theme, with woocommerse, worksadsense aswell.
+* Jennifer, a simpel theme, with woocommerse, worksadsense aswell.
 * Anabelle, personal or with woocommerse for sale of things.
 * Beyond-madison, personal or photo blog. ? Uploades header images in watercolur BM
 * Hello Sweets, works for portfolio or skills yo want people to know of.

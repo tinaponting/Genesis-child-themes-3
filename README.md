@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
+* Hailey wells, yet another femine them, suits for those who wants adsense (both sides).
 * Jennifer, a simpel theme, with woocommerse, worksadsense aswell.
 * Anabelle, personal or with woocommerse for sale of things.
 * Beyond-madison, personal or photo blog. ? Uploades header images in watercolur BM

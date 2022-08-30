@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
+* Flamingo, couldn't  get to work! But some ellse maybe, for company and so on!
 * Hailey wells, yet another femine them, suits for those who wants adsense (both sides).
 * Jennifer, a simpel theme, with woocommerse, worksadsense aswell.
 * Anabelle, personal or with woocommerse for sale of things.

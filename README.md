@@ -8,6 +8,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 ..................................
 
 Themes:
+* Delightful, mostly used for food bloggers, to small for my taste!
 * Exquisite Damask, black and smal one:)
 * Jennifer, common theme for female blogger, plenty of space for adsense.
 * Bloom, minmalist them with woocommerse, works for writersandso on. plenty of place add adsense.

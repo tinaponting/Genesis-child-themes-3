@@ -8,6 +8,8 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 ..................................
 
 Themes:
+
+* Tasteful, works for food blogers.
 * Delightful, mostly used for food bloggers, to small for my taste!
 * Exquisite Damask, black and smal one:)
 * Jennifer, common theme for female blogger, plenty of space for adsense.

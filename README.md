@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
+* Shutter pro, works for photo or portfolio blogs
 * Jane, portfolio or commerse blogger.
 * Tasteful, works for food blogers.
 * Delightful, mostly used for food bloggers, to small for my taste!

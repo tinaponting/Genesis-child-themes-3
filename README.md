@@ -8,7 +8,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 ..................................
 
 Themes:
-
+* Summation, suits for adsence,adwise and company.
 * Shutter pro, works for photo or portfolio blogs
 * Jane, portfolio or commerse blogger.
 * Tasteful, works for food blogers.

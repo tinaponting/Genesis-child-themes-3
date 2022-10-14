@@ -8,7 +8,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 ..................................
 
 Themes:
-
+*  Adore, stylish them with woocommerse.
 * Kylee More, infuencer theme.
 * Summation, suits for adsence,adwise and company.
 * Shutter pro, works for photo or portfolio blogs
@@ -20,7 +20,7 @@ Themes:
 * Bloom, minmalist them with woocommerse, works for writersandso on. plenty of place add adsense.
 * Flamingo, couldn't  get to work! But some ellse maybe, for company and so on!
 * Hailey wells, yet another femine them, suits for those who wants adsense (both sides).
-* Jennifer, a simpel theme, with woocommerse, worksadsense aswell.
+* Jennifer, a simpel theme, with woocommerse, works adsense aswell.
 * Anabelle, personal or with woocommerse for sale of things.
 * Beyond-madison, personal or photo blog. ? Uploades header images in watercolur BM
 * Hello Sweets, works for portfolio or skills yo want people to know of.

@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
+* Ellie jane, Feminine theme with woocommerse  (to small for my taste!)
 * Elise, a woman influencer or worksite.
 * Adore, stylish them with woocommerse.
 * Kylee More, infuencer theme.

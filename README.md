@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
+* Vivien, stylish portfolio theme. Can also be uses as sales.
 * Ellie jane, Feminine theme with woocommerse  (to small for my taste!)
 * Elise, a woman influencer or worksite.
 * Adore, stylish them with woocommerse.

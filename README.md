@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes:
 
+* Prima donna, orks for buisness or portfolii,presentaion e.tc
 * Swank, works for hotels or something similiar, but to small for my taste!
 * Vivien, stylish portfolio theme. Can also be uses as sales.
 * Ellie jane, Feminine theme with woocommerse  (to small for my taste!)

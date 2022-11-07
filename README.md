@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes: 
 
+* Hello Gorgeous with Portfolio.
 * Hello serendipitous with Portfolio.
 * Her Exclusive with woocommerse for all kind of blogs.
 * Meringue with woocommerse for food bloggers.

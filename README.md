@@ -9,6 +9,7 @@ IMPORTANT: Take notepad + and take style.css and delate: Updated URL! If thehe i
 
 Themes: 
 
+* Her Exclusive with woocommerse for all kind of blogs.
 * Meringue with woocommerse for food bloggers.
 * Hello theme, works well for Influencer, to small formy taste.
 * Prima donna, orks for buisness or portfolio,presentaion e.tc

@@ -61,15 +61,19 @@ Tested with: Genesis Framework: Version: 3.3.5+ Wordpress: 6.01+
 
 The themes are somewhere in time bought by:)
 
-Other parts:
+PARTS:
+
 PART 1: https://github.com/tinaponting/Genesis-child-themes
 
 PART 2: https://github.com/tinaponting/Genesis-child-themes-2
 
 PART 2: https://github.com/tinaponting/Genesis-child-themes-2
 
-Genesis themes 3 https://github.com/tinaponting/Genesis-child-themes-3
+PART 3 https://github.com/tinaponting/Genesis-child-themes-3
 
-Genesis themes 4 https://github.com/tinaponting/Genesis-child-themes-4
+Part 4: https://github.com/tinaponting/Genesis-child-themes-4
+
+Part 5: https://github.com/tinaponting/Genesis-child-themes-5
+ 
 
 
